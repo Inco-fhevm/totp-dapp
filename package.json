@@ -1,5 +1,5 @@
 {
-  "name": "@inco/otp-dapp",
+  "name": "@inco/totp-dapp",
   "private": true,
   "version": "1.0.0",
   "scripts": {

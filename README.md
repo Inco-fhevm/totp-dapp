@@ -1,4 +1,4 @@
-# OTP (One-Time-Password) Dapp
+# TOTP (Time-based One-Time-Password) Dapp
 
 On-chain TOPT (Time-based One-Time-Password).
 
